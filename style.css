@@ -12,6 +12,12 @@ header{
 .navbar a{
     margin-left: 20px;
     color: blue;
+    font-size: 2rem;
+    text-decoration: none;
+}
+.navbar a:hover{
+    background-color: blueviolet;
+    border-radius: 15px;
 }
 .main{
     display: flex;
